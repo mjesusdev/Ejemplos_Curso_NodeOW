@@ -1,0 +1,17 @@
+{
+  "name": "ejemplos_curso_nodeow",
+  "version": "1.0.0",
+  "description": "Aprendiendo a utilizar express del curso de Node.js de OpenWebinars",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "mjesusoj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
