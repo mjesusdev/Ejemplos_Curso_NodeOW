@@ -9,7 +9,7 @@
   "author": "mjesusoj",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.19.2"
   },
   "devDependencies": {
     "morgan": "^1.10.0"
